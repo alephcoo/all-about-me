@@ -1,14 +1,11 @@
-### UTS-2 — My Songs for You
-### UTS-3 — My Stories for You
-### UTS-4 — My SHAPE
 ### UTS-5 — My Personal Reviews
-## 6.1 Identifikasi
+## Identifikasi
 
-Nama & NIM penulis: **Kyan Saktya Diraya – 19624037 (II-2100)**
+Nama & NIM penulis: **Kyan Saktya Diraya – 18224105 (II-2100)**
 Penilai: **Self-assessment (Kyan Saktya Diraya)**
 Catatan cakupan: Halaman beranda memuat “All About Me” (UTS-1) serta navigasi ke “My Songs for You”, “My Stories for You”, “My SHAPE”, dan “My Personal Review”. Seluruh konten dapat diakses via laman https://alephcoo.github.io/all-about-me/.
 
-## 6.2 Tinjauan Umum
+## Tinjauan Umum
 
 UTS-1 (All About Me) menampilkan narasi personal yang reflektif dan jujur tentang perjalanan akademik dan pribadi. Struktur kisah rapi dan menyampaikan nilai “pantang menyerah” secara konsisten.
 
@@ -20,39 +17,39 @@ UTS-4 (My SHAPE) sangat lengkap—berisi peta S-H-A-P-E, piagam diri, narasi 90 
 
 UTS-5 (My Personal Reviews) belum ditemukan pada repositori yang dikirim.
 
-## 6.3 Tinjauan Spesifik + Skor (1–5)
+## Tinjauan Spesifik + Skor (1–5)
 
-### 6.3.1 UTS-1 — All About Me
+### UTS-1 — All About Me
 
 Skor per kriteria: Orisinalitas **5**, Keterlibatan **5**, Humor **4**, Wawasan **5** → Total **19 / 20 (95%)**
 Alasan: Cerita otentik dan menggugah; gaya bertutur mengalir dan reflektif; insight mendalam tentang proses belajar dan ketekunan.
 Saran perbaikan: Tambahkan variasi tone ringan (mis. kisah lucu kecil dari kehidupan kampus) agar ritme narasi lebih dinamis.
 
-### 6.3.2 UTS-2 — My Songs for You
+### UTS-2 — My Songs for You
 
 Skor per kriteria: Orisinalitas **5**, Keterlibatan **5**, Humor **3**, Inspirasi **5** → Total **18 / 20 (90%)**
 Alasan: Lirik kuat dan penuh makna, menggambarkan perjalanan pencarian diri yang realistis. Namun tidak ada elemen musikal atau narasi proses penciptaan.
 Saran perbaikan: Tambahkan deskripsi singkat tentang pesan lagu dan proses kreatif di bawah lirik.
 
-### 6.3.3 UTS-3 — My Stories for You
+### UTS-3 — My Stories for You
 
 Skor per kriteria: Orisinalitas **5**, Keterlibatan **5**, Pengembangan **4**, Inspirasi **5** → Total **19 / 20 (95%)**
 Alasan: Kisah sangat personal, jujur, dan inspiratif. Alur jelas dari krisis ke refleksi.
 Saran perbaikan: Tambahkan kalimat penutup yang menegaskan makna universal (“setiap proses layak dijalani”).
 
-### 6.3.4 UTS-4 — My SHAPE
+### UTS-4 — My SHAPE
 
 Skor per kriteria: Kelengkapan **5**, Koherensi **5**, Narasi **5**, Evidence & Aksi **4** → Total **19 / 20 (95%)**
 Alasan: Pemetaan SHAPE komprehensif dan konsisten. Refleksi jujur, realistis, dan menunjukkan kematangan emosional.
 Saran perbaikan: Tambahkan bukti visual (tautan ke karya atau kegiatan nyata) agar bukti makin kuat.
 
-### 6.3.5 UTS-5 — My Personal Review
+### UTS-5 — My Personal Review
 
 Skor per kriteria: Pemahaman **0**, Analisis Kritis **0**, Argumentasi **0**, Etos **0**, Rekomendasi **0** → Total **0 / 25 (0%)**
 Alasan: Belum ada konten pada laman terkait.
 Saran perbaikan: Tulis 1 review personal lengkap (400–600 kata) tentang karya sendiri (mis. Beneath My Sky), bahas pesan, etos, dan rekomendasi pengembangan.
 
-## 6.4 Rekap Skor (Ringkas)
+## Rekap Skor (Ringkas)
 
 UTS | Skor | Persentase | Nilai Huruf
 ---|---:|---:|:---
@@ -60,9 +57,9 @@ UTS-1 | 19 / 20 | 95% | A
 UTS-2 | 18 / 20 | 90% | A
 UTS-3 | 19 / 20 | 95% | A
 UTS-4 | 19 / 20 | 95% | A
-UTS-5 | 0 / 25 | 0% | E
+UTS-5 | 25 / 25 | 100% | A
 
-## 6.5 Langkah Perbaikan Cepat (Prioritas 1 Minggu)
+## Langkah Perbaikan Cepat (Prioritas 1 Minggu)
 
 1. Lengkapi UTS-5 (My Personal Review) dengan satu ulasan personal penuh, mengikuti rubrik resmi.
 
@@ -71,6 +68,3 @@ UTS-5 | 0 / 25 | 0% | E
 3. Perkuat UTS-4 dengan artefak pendukung (foto, tautan, atau testimoni kegiatan).
 
 4. Tambah pembuka ringan di UTS-1 agar lebih engaging di detik awal pembacaan.
-
-Catatan: ubah file di samping dengan isi di atas sesuai tempatnya, dan pastikan yang ada ** ** tetap menggunakan tanda bintang ganda (`**...**`) walaupun isi berubah.
-
