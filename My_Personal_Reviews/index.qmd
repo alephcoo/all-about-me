@@ -15,8 +15,6 @@ UTS-3 (My Stories for You) menyajikan kisah reflektif tentang perjuangan, peneri
 
 UTS-4 (My SHAPE) sangat lengkap—berisi peta S-H-A-P-E, piagam diri, narasi 90 detik, rencana aksi 90 hari, hingga versi ultra-ringkas. Refleksi mendalam dan koheren.
 
-UTS-5 (My Personal Reviews) belum ditemukan pada repositori yang dikirim.
-
 ## Tinjauan Spesifik + Skor (1–5)
 
 ### UTS-1 — All About Me
@@ -43,12 +41,6 @@ Skor per kriteria: Kelengkapan **5**, Koherensi **5**, Narasi **5**, Evidence & 
 Alasan: Pemetaan SHAPE komprehensif dan konsisten. Refleksi jujur, realistis, dan menunjukkan kematangan emosional.
 Saran perbaikan: Tambahkan bukti visual (tautan ke karya atau kegiatan nyata) agar bukti makin kuat.
 
-### UTS-5 — My Personal Review
-
-Skor per kriteria: Pemahaman **0**, Analisis Kritis **0**, Argumentasi **0**, Etos **0**, Rekomendasi **0** → Total **0 / 25 (0%)**
-Alasan: Belum ada konten pada laman terkait.
-Saran perbaikan: Tulis 1 review personal lengkap (400–600 kata) tentang karya sendiri (mis. Beneath My Sky), bahas pesan, etos, dan rekomendasi pengembangan.
-
 ## Rekap Skor (Ringkas)
 
 UTS | Skor | Persentase | Nilai Huruf
@@ -57,14 +49,11 @@ UTS-1 | 19 / 20 | 95% | A
 UTS-2 | 18 / 20 | 90% | A
 UTS-3 | 19 / 20 | 95% | A
 UTS-4 | 19 / 20 | 95% | A
-UTS-5 | 25 / 25 | 100% | A
 
 ## Langkah Perbaikan Cepat (Prioritas 1 Minggu)
 
-1. Lengkapi UTS-5 (My Personal Review) dengan satu ulasan personal penuh, mengikuti rubrik resmi.
+1. Perkaya UTS-2 dengan paragraf reflektif soal proses kreatif lagu.
 
-2. Perkaya UTS-2 dengan paragraf reflektif soal proses kreatif lagu.
+2. Perkuat UTS-4 dengan artefak pendukung (foto, tautan, atau testimoni kegiatan).
 
-3. Perkuat UTS-4 dengan artefak pendukung (foto, tautan, atau testimoni kegiatan).
-
-4. Tambah pembuka ringan di UTS-1 agar lebih engaging di detik awal pembacaan.
+3. Tambah pembuka ringan di UTS-1 agar lebih engaging di detik awal pembacaan.
